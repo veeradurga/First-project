@@ -1,1 +1,2 @@
-Echo "helloworld"
+echo "helloworld"
+echo "doing merging concept"
